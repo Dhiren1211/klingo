@@ -77,9 +77,11 @@
    $database = "klingo_db";
    ```
 
-4. **Admin Account Setup**
-   - Visit `/admin/create-admin.php` via browser.
-   - Enter details to create your first admin account.
+4. **Admin Account login **
+   - from login page 
+   - superadmin:- superadmin@123.com.
+   - password:- 12345.
+   - then you can create your own admins. 
 
 5. **Run the Application**
    - If using **XAMPP**, place the project inside the `htdocs/` folder.
