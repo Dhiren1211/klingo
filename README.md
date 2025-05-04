@@ -79,7 +79,7 @@
 
 4. **Admin Account login **
    - from login page 
-   - superadmin:- superadmin@123.com.
+   - superadmin:- superadmin@gmail.com.
    - password:- 12345.
    - then you can create your own admins. 
 
