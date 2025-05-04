@@ -65,7 +65,7 @@
 2. **Database Setup**
    - Create a new MySQL database (e.g., `klingo_db`).
    - Import the SQL schema:
-     - Locate `/database/klingo.sql`
+     - Locate `/database/klingo_db.sql`
      - Import it into your created database.
 
 3. **Configure Database Connection**
