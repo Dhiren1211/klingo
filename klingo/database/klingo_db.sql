@@ -152,10 +152,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `password`, `role`, `created_at`) VALUES
-(1, 'Dhirendra Kathayat', 'toxicdhiren3497@gmail.com', '$2y$10$5CJWYE940MdPhjnAPI8kje5GQXgPRCmxYmrDEo.gOw1bCQe0l7nyC', 'admin', '2025-04-27 16:22:19'),
-(2, 'Super Admin', 'superadmin@gmail.com', '$2y$10$I7.1KEl448s0G5BBBPCPHOc3f34k30M37wangtEjfvZXIcP5720VC', 'super_admin', '2025-04-28 05:10:45'),
-(3, 'Dhiroj Kathayat', 'user@gmail.com', '$2y$10$Lbm2JzwQD.n9DMBkQWBemehNHLoWDRmsczN9UObKGWBXkv27lXhai', 'user', '2025-04-28 05:17:16'),
-(5, 'Dhirendra Kathayat', 'tohicdhiren3497@gmail.com', '$2y$10$2zojefXNRL8Rkz2u0yV1XeFj234ObZ5uRt.BPKrVMWHrWWzDFh.XG', 'user', '2025-05-01 12:00:42');
+(2, 'Super Admin', 'superadmin@gmail.com', '$2y$10$I7.1KEl448s0G5BBBPCPHOc3f34k30M37wangtEjfvZXIcP5720VC', 'super_admin', '2025-04-28 05:10:45');
 
 -- --------------------------------------------------------
 
